@@ -1,0 +1,15 @@
+{
+  "name": "bulletin-board",
+  "version": "0.0.1",
+  "description": "A bulletin board developed by reactJS",
+  "main": "Note.js",
+  "scripts": {
+    "start": "open http://localhost:4567 & httpster -p 4567"
+  },
+  "author": "Brabeeba",
+  "license": "MIT",
+  "dependencies": {
+    "httpster": "^1.0.1",
+    "react-tools": "^0.13.3"
+  }
+}
